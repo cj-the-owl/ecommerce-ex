@@ -1,0 +1,20 @@
+#top {
+    background-image: url(https://i.postimg.cc/hvwLkYJD/sharingan-gif-9-unscreen.gif);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x:center ;
+    height: 700px;
+}
+.hoodies1, .hoodies2 {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.t-shirts {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 600px 600px;
+}
+
