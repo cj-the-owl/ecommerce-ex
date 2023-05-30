@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(18, 18, 18);
+    color: ghostwhite;
+}
 #top {
     background-image: url(https://i.postimg.cc/hvwLkYJD/sharingan-gif-9-unscreen.gif);
     background-repeat: no-repeat;
@@ -16,5 +20,17 @@
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: 600px 600px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+.list-unstyled {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
