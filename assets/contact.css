@@ -1,3 +1,16 @@
+body {
+    background-color: rgb(18, 18, 18);
+    color: ghostwhite;
+}
+
+.list-unstyled {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
 .inputs {
     width: 30rem;
 }
@@ -9,3 +22,4 @@
 #email {
     height: 
 }
+
